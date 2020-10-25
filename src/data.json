@@ -1,0 +1,19 @@
+{
+    "milli":{
+       "23-04":"23 Nisan Ulusal Egemenlik ve Çocuk Bayramınız Kutlu Olsun !",
+       "19-05":"19 Mayıs Atatürk’ü Anma Gençlik ve Spor Bayramınız Kutlu Olsun !",
+       "30-08":"30 Ağustos Zafer Bayramınız Kutlu Olsun !",
+       "29-10":"29 Ekim Cumhuriyet Bayramınız Kutlu Olsun !"
+    },
+    "dini":{
+       "00:00":"Eklenecek"
+    },
+    "motivasyon":[
+       {
+          "mesaj":"Sabır bir erdemdir ve ben sabretmeyi yeni yeni öğreniyorum. Gerçekten zor bir şey."
+       },
+       {
+          "mesaj":"Hayat, uzun süre kin duymak için çok kısa."
+       }
+    ]
+ }
